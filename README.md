@@ -6,8 +6,8 @@
 
 clone:
 ```
-$ git clone git@github.com:sungeer/waitress.git
-$ cd waitress
+$ git clone git@github.com:sungeer/actress.git
+$ cd actress
 ```
 create & activate virtual env then install dependency:
 
@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 ```
 then run:
 ```
-$ uvicorn waitress:app --port 8848
+$ uvicorn actress:app --port 8848
 * Running on http://127.0.0.1:8848/
 ```
 
