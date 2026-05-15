@@ -1,6 +1,6 @@
 # waitress
 
-*An agent built with LangGraph.*
+*An agent built with DBUtils and ThreadPool.*
 
 ## Installation
 
